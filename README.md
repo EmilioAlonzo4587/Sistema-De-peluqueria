@@ -22,6 +22,9 @@ HairBook es una plataforma que permite a los clientes reservar citas en una pelu
 ---
 
 ## 📚 Documentación
+La documentación del sistema se encuentra en la carpeta **docs** del repositorio:
 
-- 📄 System Brief → docs/system-brief.md
-- 📋 Requirements → docs/requirements.md
+- 📘 [System Brief](docs/system-brief.md)
+- 📋 [Requerimientos y Backlog](docs/requirements.md)
+
+En estos documentos se describe el alcance del sistema, los stakeholders, el backlog de historias de usuario y la definición del MVP.
