@@ -20,20 +20,20 @@ El tablero contiene las historias de usuario organizadas en las columnas:
 
 | ID | Historia | Prioridad |
 |----|----|----|
-| US01 | Registro de usuario | Must |
-| US02 | Inicio de sesión | Must |
-| US03 | Ver horarios disponibles | Must |
-| US04 | Agendar cita | Must |
-| US05 | Panel de administración | Must |
-| US06 | Cancelar cita | Should |
-| US07 | Gestión de servicios | Should |
-| US08 | Notificación de confirmación | Could |
+| 1 | Registro de usuario | Must |
+| 2 | Inicio de sesión | Must |
+| 3 | Ver horarios disponibles | Must |
+| 4 | Agendar cita | Must |
+| 5 | Panel de administración | Must |
+| 6 | Cancelar cita | Should |
+| 7 | Gestión de servicios | Should |
+| 8 | Notificación de confirmación | Could |
 
 ---
 
 # ✅ Criterios de Aceptación (Given / When / Then)
 
-## US02 – Inicio de sesión
+## 2 – Inicio de sesión
 
 **Given** que el usuario está registrado en el sistema  
 
@@ -43,7 +43,7 @@ El tablero contiene las historias de usuario organizadas en las columnas:
 
 ---
 
-## US04 – Agendar cita
+## 4 – Agendar cita
 
 **Given** que existen horarios disponibles  
 
