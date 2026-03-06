@@ -13,7 +13,7 @@ El sistema busca digitalizar el proceso de reservación para reducir errores, me
 
 ## ⚠️ Problema
 
-Muchas peluquerías administran sus citas mediante llamadas telefónicas o mensajes en redes sociales.
+Muchas peluquerías no tienen citas o si las tienen son mediante llamadas telefónicas o mensajes en redes sociales.
 
 Esto genera problemas como:
 
@@ -40,7 +40,7 @@ Esto permite mejorar la organización del negocio y ofrecer una experiencia más
 | Rol | Descripción |
 |----|----|
 | Cliente | Persona que desea reservar una cita en la peluquería |
-| Estilista | Profesional que realiza los servicios |
+| Peluquero | Profesional que se encarga de los servicios |
 | Administrador | Persona encargada de gestionar las citas |
 
 ---
